@@ -1,0 +1,27 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Data files (raw, processed, curated)
+data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker files that are generated or sensitive
+*.env
+
+# IDE/editor settings
+.vscode/
+.idea/
